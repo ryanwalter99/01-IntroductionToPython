@@ -17,7 +17,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 1.
+# done: 1.
 #   (Yes, that means for YOU to DO things per these instructions:)
 #
 #   Run this module by right clicking anywhere in this window and selecting
@@ -32,7 +32,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 2.
+# done: 2.
 #   Notice the small horizontal BLUE bars on the scrollbar-like thing
 #   on the right.  Each blue bar indicates a thing TO-DO in this module.
 #
@@ -57,7 +57,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 3.
+# done: 3.
 #   Add another   print   statement below the current Line 1 above.
 #   It should print any string that you want (but keep it G-rated!)
 #
@@ -67,10 +67,10 @@ print('Hello, World')
 #   Look at the Run window to be sure that your string printed as expected.
 #
 ###############################################################################
-
+print('My name is Ryan')
 ###############################################################################
 #
-# TODO: 4.
+# done: 4.
 #   Add yet another   print   statement.
 #   This one should print the *product* of 3,607 and 34,227.
 #   Let the computer do the arithmetic for you (no calculators!).
@@ -81,10 +81,10 @@ print('Hello, World')
 #   (HINT: It is an INTERESTING number.)  Get help if your value is wrong.
 #
 ###############################################################################
-
+print(3607*34227)
 ###############################################################################
 #
-# TODO: 5.
+# done: 5.
 #   Look at the list of files in the Project window (to the left).  Note that
 #   this file (m2_hello_world.py) is now displayed in a blue font color.
 #     - Clicking on a different file makes it easier to see
