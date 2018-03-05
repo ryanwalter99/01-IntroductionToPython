@@ -33,11 +33,12 @@ window = rg.TurtleWindow()
 window.delay(20)
 tim= rg.SimpleTurtle('square')
 tim.pen = rg.Pen('red',20)
+tim.speed = 5
 tim.forward(40)
 tim.left(45)
 tim.forward(30)
 tim.right(60)
 tim.forward(60)
-tim.speed = 5
+
 
 window.close_on_mouse_click()
